@@ -1,12 +1,11 @@
-================================================
-\nLe damos la bienvenida a la bolsa de trabajo de E-NIGMA. 
-Adjunta encontrará una lista de contratos disponibles, sin comentario alguno de nuestra parte acerca de su viabilidad o legalidad.
-\n
-\nLa privacidad de nuestros clientes es nuestra prioridad: cualquier intento de vulnerar el anonimato del contratante resultará en su inmediata destitución sumaria y terminación fisiológica.
-","data":["http://acs.e-nigma.online/contracts/0_tutorial",
+{
+	"data": [
+	"http://acs.e-nigma.online/contracts/0_tutorial",
 	"http://acs.e-nigma.online/contracts/1",
 	"http://acs.e-nigma.online/contracts/2",
-	"http://acs.e-nigma.online/contracts/3"
-,"http://acs.e-nigma.online/contracts/4",
-"http://acs.e-nigma.online/contracts/5"
-,"http://acs.e-nigma.online/contracts/6"]}
+	"http://acs.e-nigma.online/contracts/3",
+	"http://acs.e-nigma.online/contracts/4",
+	"http://acs.e-nigma.online/contracts/5",
+	"http://acs.e-nigma.online/contracts/6"
+	]
+}
